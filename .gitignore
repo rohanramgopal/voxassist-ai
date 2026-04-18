@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Logs & data
+data/logs/
+data/notes/
+*.log
+
+# Models (VERY IMPORTANT)
+vosk-model*/
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
