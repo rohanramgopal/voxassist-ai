@@ -190,6 +190,7 @@ Email automation
 Local LLM integration (ChatGPT-style)
 Cross-platform support
 macOS app packaging
+
 👨‍💻 Author
 
 Rohan Ramgopal
